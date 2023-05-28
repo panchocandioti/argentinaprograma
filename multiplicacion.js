@@ -1,4 +1,4 @@
-//TPN0 - Ejercicio 1b
+//TPN0 - Ejercicio 1b 
 let factor1 = 2;
 let factor2 = 17;
 let factor3 = 6;
