@@ -1,4 +1,4 @@
-//TPN0 - Ejercicio 2
+//TPN0 - Ejercicio 2 
 //Definicion de las variables con los primeros valores
 let base = 5;
 let altura = 3;
