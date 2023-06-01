@@ -1,0 +1,20 @@
+TPN0 - Respuestas
+
+resta.js
+Ejercicio 1a: 8
+
+multiplicacion.js
+Ejercicio 1b: 204
+
+areaRectangulo.js
+Ejercicio 2a: 15 cm2
+Ejercicio 2b: 66.25 cm2
+
+conversionGrados.js
+Ejercicio 3a: 50 F === 10 C
+Ejercicio 3b: 75 F === 23.88888 C
+
+promedio3.js
+Ejercicio 4a: 7
+Ejercicio 4b: -4.33333
+Ejercicio 4c: 0.266666
